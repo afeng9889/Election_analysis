@@ -4,7 +4,6 @@
 To find the breakdown of the election results using python.By using the csv file, we can import it into python and create 'for' loops to quickly find requested information from each row.
 
 ## **Election-Audit Results**
-![Election Results](election_analysis.txt)
 
 - *How many votes were cast in this congressional election?*
 There were a total of 369,711 votes casted for this congressional election.
